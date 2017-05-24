@@ -1,0 +1,25 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "just a demo project to show node js with mysql and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geshan/counter.git"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "Geshan Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/counter/issues"
+  },
+  "homepage": "https://github.com/geshan/counter#readme",
+  "dependencies": {
+    "namshi-node-mysql": "^0.2.4"
+  }
+}
