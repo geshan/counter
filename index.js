@@ -1,10 +1,10 @@
 const http = require('http');
 
 const config = {
-	host: "mysql",
-	user: "root",
-	password: "root",
-	database: "counter"
+	host: "sql12.freesqldatabase.com",
+	user: "sql12176387",
+	password: "Gb1RIkFhLI",
+	database: "sql12176387"
 };
 
 const db = require('namshi-node-mysql')(config);
