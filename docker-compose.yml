@@ -2,7 +2,7 @@ web:
   build: .
   volumes:
    - .:/src
-  command:  nodemon -e js --harmony-async-await index.js
+  command:  nodemon -e js index.js
   environment:
     NODE_ENV: dev
     VIRTUAL_HOST: 'counter.local.dev'
