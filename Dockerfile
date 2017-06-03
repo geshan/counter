@@ -1,4 +1,4 @@
-FROM node:7.10-alpine
+FROM node:8-alpine
 
 RUN yarn global add nodemon
 
@@ -9,4 +9,4 @@ RUN cd /src && yarn
 
 EXPOSE 8080
 
-CMD ["node", "--harmony-async-await", "index.js"]
+CMD ["node", "index.js"]
