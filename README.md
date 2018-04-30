@@ -1,5 +1,7 @@
 ## Counter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/geshan/counter.svg)](https://greenkeeper.io/)
+
 A very simple counter app with node js and mysql to emulate the page visit counter of old days.
 
 ### For docker example
