@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/geshan/counter#readme",
   "dependencies": {
-    "namshi-node-mysql": "^0.2.4"
+    "namshi-node-mysql": "^1.1.0"
   }
 }
